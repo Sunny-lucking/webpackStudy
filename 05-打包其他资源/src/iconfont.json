@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13881049",
+      "name": "西红柿.SVG",
+      "font_class": "xihongshiSVG",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "13881050",
+      "name": "荷花.SVG",
+      "font_class": "hehuaSVG",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "13881051",
+      "name": "配送车.SVG",
+      "font_class": "peisongcheSVG",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    }
+  ]
+}
