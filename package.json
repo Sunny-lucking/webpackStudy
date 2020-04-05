@@ -19,10 +19,6 @@
   "homepage": "https://github.com/peigexing/webpackStudy#readme",
   "dependencies": {
     "css-loader": "^3.4.2",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-loader": "^4.0.0",
-    "eslint-plugin-import": "^2.20.2",
     "file-loader": "^6.0.0",
     "html-loader": "^1.1.0",
     "html-webpack-plugin": "^4.0.4",
@@ -53,9 +49,5 @@
       "not dead",
       "not op_mini all"
     ]
-  },
-  "eslintConfig": {
-    "extends": "airbnb-base"
-  },
-  "sideEffects":["*.css"]
+  }
 }
